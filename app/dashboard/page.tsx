@@ -42,7 +42,7 @@ const quickActions = [
   { label: 'Topshiriqlar', icon: FileText, count: 2, href: '/dashboard/materials' },
 ]
 
-export default function StudentDashboardPage() {
+export default function DashboardPage() {
   return (
     <div className="space-y-8">
       {/* Welcome Section */}
